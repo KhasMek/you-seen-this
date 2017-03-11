@@ -1,0 +1,6 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "Fork && Contribute <a href=\"https://github.com/KhasMek/you-seen-this\">GitHub</a>.<br />",
+    "anchorCharacter": "#"
+}
