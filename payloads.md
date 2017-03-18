@@ -1,8 +1,12 @@
 # Payloads
 
-# Browsers
+## Browsers
 
 [PoisonTap](https://github.com/samyk/poisontap)
+
+## Detection
+
+[VirusTotal](https://www.virustotal.com/)
 
 ## Metasploit
 
@@ -19,6 +23,14 @@
 ## Office Documents
 
 [Luckystrike: An Evil Office Document Generator](https://www.shellntel.com/blog/2016/9/13/luckystrike-a-database-backed-evil-macro-generator)
+
+---
+
+## Powershell
+
+[BrowserGather](https://github.com/sekirkity/BrowserGather)
+
+- Fileless Extraction of Sensitive Browser Information with PowerShell
 
 ---
 
