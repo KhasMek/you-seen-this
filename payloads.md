@@ -8,6 +8,10 @@
 
 [VirusTotal](https://www.virustotal.com/)
 
+## Evasion
+
+[Shelter](https://www.shellterproject.com/)
+
 ## Metasploit
 
 [Veil](https://github.com/Veil-Framework/Veil)
@@ -31,6 +35,10 @@
 [BrowserGather](https://github.com/sekirkity/BrowserGather)
 
 - Fileless Extraction of Sensitive Browser Information with PowerShell
+
+[Empire](https://www.powershellempire.com/)
+
+[EmPyre](https://github.com/EmpireProject/EmPyre)
 
 ---
 

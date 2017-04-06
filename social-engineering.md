@@ -12,9 +12,13 @@
 
 [FiercePhish](https://github.com/Raikia/FiercePhish)
 
+[Gophish](https://getgophish.com/) - A very solid phishing platform actively developed and written in Go.
+
 [Mercure](https://github.com/synhack/mercure)
 
-[Phishing Frenzy](https://phishingfrenzy.com/)
+[Phishing Frenzy](https://phishingfrenzy.com)
+
+[Wombat](https://www.wombatsecurity.com)
 
 ---
 
