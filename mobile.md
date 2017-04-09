@@ -24,6 +24,10 @@
 
 [Genymotion](https://www.genymotion.com/)
 
+### Frameworks
+
+[MARA Framework](https://github.com/xtiankisutsa/MARA_Framework)
+
 ### Payloads
 
 [Backdoor.apk](http://www.kitploit.com/2016/12/backdoor-apk-shell-script-that.html)
