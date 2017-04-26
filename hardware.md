@@ -10,7 +10,9 @@
 
 [DIY Rubber Ducky](https://www.pentestingshop.com/pentesting/make-your-own-usb-rubber-ducky-using-a-normal-usb-stick/)
 
-[Multi-RTL](https://hackaday.com/2017/01/30/gsm-sniffing-on-a-budget-with-multi-rtl/) (GSM sniffing on a budget)
+[Multi-RTL](https://hackaday.com/2017/01/30/gsm-sniffing-on-a-budget-with-multi-rtl/)
+
+- GSM sniffing on a budget.
 
 ---
 
@@ -38,7 +40,9 @@
 
 ### Bluetooth (BLE)
 
-[Capturing BLE in Wireshark](https://github.com/greatscottgadgets/ubertooth/wiki/Capturing-BLE-in-Wireshark) - using the ubertooth one
+[Capturing BLE in Wireshark](https://github.com/greatscottgadgets/ubertooth/wiki/Capturing-BLE-in-Wireshark)
+
+- using the ubertooth one
 
 ### SDR (Software Define Radio)
 

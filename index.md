@@ -6,15 +6,29 @@ My friend shares a lot of awesome links, to where I had to start tracking a back
 
 Some of these may be more common knowledge (or useful) than others, but I'm leaving them ~~because I'm lazy~~ for completeness. 
 
+This really needs to get some better organization going, if anyone wants to help. ;)
+
 ---
+
+## Analysis
+
+[Analysis](analysis.md)
 
 ## Bug Hunting
 
 [Bug Hunting](bug-hunting.md)
 
+## Cryptography
+
+[Cryptography](crypto.md)
+
 ## Hardware
 
 [Hardware](hardware.md)
+
+## Miscellaneous
+
+[Miscellaneous](misc.md)
 
 ## Mobile Devices
 

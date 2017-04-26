@@ -1,8 +1,14 @@
 # You Seen This?
 
+[Analysis](analysis.md)
+
 [Bug Hunting](bug-hunting.md)
 
+[Cryptography](crypto.md)
+
 [Hardware](hardware.md)
+
+[Miscellaneous](misc.md)
 
 [Mobile Devices](mobile.md)
 

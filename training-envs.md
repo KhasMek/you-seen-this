@@ -1,12 +1,28 @@
 # Training Environments
 
+## Course Material
+
+[Modern Binary Exploitation](https://github.com/RPISEC/MBE)
+
+- Course materials for Modern Binary Exploitation by RPISEC.
+
+---
+
 ## Labs
+
+[Pentest-env](https://sliim.github.io/pentest-env/)
+
+- A really ingenious and easy way to deploy multiple VM's and quickly spin up/down different testing labs.
 
 [Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
 
 ---
 
 ## Misc
+
+[Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
+
+- A deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.
 
 [Metasploit Vulnerability Emulator](https://github.com/rapid7/metasploit-vulnerability-emulator)
 
@@ -60,7 +76,9 @@
 
 ### Standard VMS
 
-[Microsoft VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) (IE8 through MS Edge)
+[Microsoft VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+
+- IE8 through MS Edge.
 
 ---
 

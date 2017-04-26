@@ -16,7 +16,7 @@ From the root dir just run `make`. The build subdir will contain the pdf and epu
 
 ### Ubuntu
 
-You will need to install the `make`, `texlive-xetex` and `pandoc` packages.
+You will need to install the `git`, `make`, `texlive`, `texlive-xetex` and `pandoc` packages.
 
 From the root dir just run `make`. The build subdir will contain the pdf and epub output.
 

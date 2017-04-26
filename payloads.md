@@ -4,13 +4,41 @@
 
 [PoisonTap](https://github.com/samyk/poisontap)
 
+- Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
+
+[Little Doctor](https://github.com/moloch--/little-doctor)
+
+- Out of the Browser into the Fire - Cross platform XSS worm framework.
+
+[XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter)
+
+- This is a portable version of the source code running on https://xsshunter.com. It is designed to be easily-installable on any server for security professionals and bug bounty hunters who wish to test for XSS in a much more powerful way.
+
+[XSS Hunter Client](https://github.com/mandatoryprogrammer/xsshunter_client)
+
+- Correlated injection proxy tool for XSS Hunter.
+
+---
+
 ## Detection
 
 [VirusTotal](https://www.virustotal.com/)
 
+---
+
 ## Evasion
 
 [Shelter](https://www.shellterproject.com/)
+
+---
+
+## HTTP Command Injection
+
+[PyShell](https://github.com/praetorian-inc/pyshell)
+
+- Simplify HTTP Comand Injection.
+
+---
 
 ## Metasploit
 
@@ -21,6 +49,10 @@
 ## Misc (to be categorized)
 
 [CyberChef](https://gchq.github.io/CyberChef/)
+
+[TheFatRat](https://github.com/Screetsec/TheFatRat)
+
+- An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection.
 
 ---
 
@@ -34,7 +66,7 @@
 
 [BrowserGather](https://github.com/sekirkity/BrowserGather)
 
-- Fileless Extraction of Sensitive Browser Information with PowerShell
+- Fileless Extraction of Sensitive Browser Information with PowerShell.
 
 [Empire](https://www.powershellempire.com/)
 

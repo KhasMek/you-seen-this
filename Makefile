@@ -1,8 +1,15 @@
+# Ubuntu Package Requirements
+# - git
+# - make
+# - pandoc
+# - texlive
+# - texlive-xetex
+
 BUILD = build
 BOOKNAME = You-Seen-This
 TITLE = title.txt
 METADATA = metadata.xml
-CHAPTERS =  index.md bug-hunting.md hardware.md mobile.md payloads.md pentesting.md people.md recon.md social-engineering.md training-envs.md voip.md
+CHAPTERS =  index.md analysis.md bug-hunting.md crypto.md hardware.md misc.md mobile.md payloads.md pentesting.md people.md recon.md social-engineering.md training-envs.md voip.md
 TOC = --toc --toc-depth=2
 # COVER_IMAGE = images/cover.jpg
 LATEX_CLASS = report
