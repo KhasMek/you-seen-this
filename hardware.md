@@ -8,6 +8,10 @@
 
 ## Misc
 
+[Bishop Fox Tastic RFID Thief](https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/)
+
+- A silent, long-range RFID reader.
+
 [DIY Rubber Ducky](https://www.pentestingshop.com/pentesting/make-your-own-usb-rubber-ducky-using-a-normal-usb-stick/)
 
 [Multi-RTL](https://hackaday.com/2017/01/30/gsm-sniffing-on-a-budget-with-multi-rtl/)
