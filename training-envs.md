@@ -14,7 +14,9 @@
 
 - A really ingenious and easy way to deploy multiple VM's and quickly spin up/down different testing labs.
 
-[Penetration Testing Practice Lab](http://www.amanhardikar.com/mindmaps/Practice.html)
+[Penetration Testing Practice Lab - VULNERABLE APPS / SYSTEMS](http://www.amanhardikar.com/mindmaps/Practice.html)
+
+- A *holy cow* source for tons of vuln vms and a fantastic network map for those that want to deploy it all.
 
 ---
 
@@ -24,11 +26,25 @@
 
 - A deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.
 
+[Hacksplaining](https://www.hacksplaining.com/exercises_)
+
+- Site that walks one through different web testing techniques.
+
 [Metasploit Vulnerability Emulator](https://github.com/rapid7/metasploit-vulnerability-emulator)
 
 ---
 
 ## Virtual Machines
+
+### Miscellaneous VMs
+
+[Buscador Investigative Operating System](https://inteltechniques.com/buscador/)
+
+- Linux VM pre-configured for online investigators. Developed by David Westcott and Michael Bazzel.
+
+[SOF-ELK](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)
+
+- Security Operations and Forensics Elasticsearch, Logstash, Kibana.
 
 ### Resource Sites
 

@@ -26,15 +26,31 @@
 
 Yeah yeah, this should probably be in a better section or something.
 
+[Canary](https://canary.tools/)
+
+- Not freeware or OSS, but brought to you by the same people that make Canarytokens.
+
 [HoneyPy](https://github.com/foospidy/HoneyPy/tree/master/loggers)
 
 ---
 
 ## Miscellaneous
 
+[Canarytokens](https://canarytokens.org/generate)
+
+- Track when someone queries a database, reads a file, performs a bitcoin transaction, views a Linkedin Profile and many other randomly amazing things.
+
 [ExtractHosts](https://github.com/bwall/ExtractHosts)
 
 - Extracts hosts (IP/Hostnames) from files.
+
+[Just-Metadata](https://github.com/ChrisTruncer/Just-Metadata)
+
+- A tool that analyzes metadata on a given IP address.
+
+[IntelTechniques Search Tool](https://inteltechniques.com/menu.html)
+
+- All the recon.
 
 ## Organizations
 
@@ -45,6 +61,8 @@ Yeah yeah, this should probably be in a better section or something.
 ## People
 
 [Family Tree](http://www.familytreenow.com/)
+
+[Hunchly](https://hunch.ly/)
 
 [Launchfeed Firehose](http://internetawacs.jesterscourt.cc/launchfeed-firehose.php)
 

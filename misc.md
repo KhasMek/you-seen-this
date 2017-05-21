@@ -26,6 +26,16 @@ Links in here either need to be organized, or are here until there are enough li
 
 ---
 
+## Publications
+
+Zines and other online things.
+
+[Hack with Github](https://github.com/Hack-with-Github/Free-Security-eBooks)
+
+- A curated collection of free Security and Pentesting ebooks.
+
+[Underground](https://suelette.home.xs4all.nl/underground/)
+
 ## Scanners
 
 [PERS](https://github.com/mandatoryprogrammer/PERS)

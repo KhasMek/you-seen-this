@@ -10,6 +10,10 @@
 
 - Out of the Browser into the Fire - Cross platform XSS worm framework.
 
+[nsshell](https://github.com/TheRook/nsshell)
+
+- A DNS connectback shell. Think sqlmap meets xsshunter - but looking for (blind/nonblind) RCE to get a DNS connectback shell.
+
 [XSS Hunter](https://github.com/mandatoryprogrammer/xsshunter)
 
 - This is a portable version of the source code running on https://xsshunter.com. It is designed to be easily-installable on any server for security professionals and bug bounty hunters who wish to test for XSS in a much more powerful way.

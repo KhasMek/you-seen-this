@@ -30,6 +30,10 @@
 
 [Spam As a Service](https://www.reddit.com/r/sysadmin/comments/5rfk4h/anyone_use_spam_as_a_service_for_training_purposes/)
 
+[Spam Lists](https://techhelplist.com/spam-list)
+
+- Very up to date list of current spam/malware emails.
+
 [Latest Email Scams](https://itservices.uchicago.edu/email-scams/rss.xml)
 
 - University of Chicago.
@@ -37,6 +41,8 @@
 ---
 
 ## Theory, Articles & Blogs
+
+[Hacking The Human: SE Basics](http://sten0.ghost.io/2016/08/17/se-foundations-series/) A series of essays on physical Social Engineering.
 
 [Phyishing with Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
 

@@ -44,15 +44,23 @@
 
 [Bugcrowd](https://bugcrowd.com/)
 
+[The Bug Hunters Methodology](https://github.com/jhaddix/tbhm)
+
 [Bughunter University](https://sites.google.com/site/bughunteruniversity/) (Google)
 
 [HackerOne](https://hackerone.com/)
+
+[How to Become a Bug Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102?utm_content=54464164&utm_medium=social&utm_source=twitter)
+
+- Great little write-up by Bug Crowd.
 
 [Improving Your Reports](https://sites.google.com/site/bughunteruniversity/improve)
 
 [High Frequency Bug Hunting](https://shubs.io/high-frequency-security-bug-hunting-120-days-120-bugs/#methodology)
 
 [How to become a successful Bug Bounty Hunter](https://www.quora.com/How-do-I-become-a-successful-Bug-bounty-hunter)
+
+[Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/)
 
 [Scrutiny on the Bug Bounty](https://docs.google.com/presentation/d/1PCnjzCeklOeGMoWiE2IUzlRGOBxNp8K5hLQuvBNzrFY/edit#slide=id.g858d6a346_0_51) (Slides)
 

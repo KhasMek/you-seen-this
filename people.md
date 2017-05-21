@@ -8,6 +8,8 @@
 
 ## Blogs
 
+[Anatoly Vasilenko](https://phonexicum.github.io/)
+
 [Alexandre Norman](http://xael.org)
 
 [Hunter Scott](http://www.hscott.net)
