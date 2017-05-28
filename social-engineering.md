@@ -26,6 +26,10 @@
 
 ## Resources
 
+[GotPhish](https://gotphish.com)
+
+- Site resources for **reporting** phishing attacks.
+
 [Knowbe4 Security Awareness Training](https://www.knowbe4.com/)
 
 [Spam As a Service](https://www.reddit.com/r/sysadmin/comments/5rfk4h/anyone_use_spam_as_a_service_for_training_purposes/)

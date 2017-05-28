@@ -72,4 +72,8 @@
 
 - Command Line Tool for interacting with MachO binaries on OSX/iOS.
 
+[Secure iOS Application Development](https://github.com/felixgr/secure-ios-app-dev)
+
+- A list of some of the most common security mistakes made while developing for iOS. Solid reference if auditing an app.
+
 ---

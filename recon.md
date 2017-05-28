@@ -30,6 +30,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 - Not freeware or OSS, but brought to you by the same people that make Canarytokens.
 
+[Feedback on how to build SMB Honeypot](https://benkowlab.blogspot.fr/2017/05/feedback-on-how-to-build-smb-honeypot.html)
+
+- A nice little writeup about making a SMB honeypot to observe WannaCry attacks.
+
 [HoneyPy](https://github.com/foospidy/HoneyPy/tree/master/loggers)
 
 ---
@@ -51,6 +55,10 @@ Yeah yeah, this should probably be in a better section or something.
 [IntelTechniques Search Tool](https://inteltechniques.com/menu.html)
 
 - All the recon.
+
+[Snoopy-ng](https://github.com/sensepost/snoopy-ng)
+
+- A distributed sensor, data collection, interception, analysis and visualization framework written in python.
 
 ## Organizations
 

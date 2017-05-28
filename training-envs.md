@@ -6,6 +6,10 @@
 
 - Course materials for Modern Binary Exploitation by RPISEC.
 
+[Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+
+- A fantastic 101 on malware by the one and only Malware Unicorn.
+
 ---
 
 ## Labs
@@ -25,6 +29,10 @@
 [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
 
 - A deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.
+
+[Exploit-Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
+
+- A collection of vulnerable Arm binaries.
 
 [Hacksplaining](https://www.hacksplaining.com/exercises_)
 

@@ -56,6 +56,10 @@ Zines and other online things.
 
 - Create On Demand OpenVPN Endpoints on AWS.
 
+[DeleteMe](https://www.abine.com/deleteme/landing.php)
+
+- Paid service to monitor, notify and delete your online presence.
+
 [WhoDat](https://github.com/MITRECND/WhoDat)
 
 - Pivotable Reverse WhoIs / PDNS Fusion with Registrant Tracking & Alerting plus API for automated queries (JSON/CSV/TXT).
