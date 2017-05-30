@@ -40,6 +40,10 @@
 
 ## Theory, Articles & Blogs
 
+[AMA with @jhaddix](https://bugbountyforum.com/blog/ama/jhaddix/)
+
+- Ask Me Anything with the current top bug hunter on BugCrowd.
+
 [Bug Bounty in Five Years](https://medium.com/@collingreene/bug-bounty-5-years-in-c95cda604365#.h49rh8p7t)
 
 [Bugcrowd](https://bugcrowd.com/)

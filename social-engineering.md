@@ -26,6 +26,10 @@
 
 ## Resources
 
+[Awesome Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
+
+- Awesome list for Social Engineering and Phishing.
+
 [GotPhish](https://gotphish.com)
 
 - Site resources for **reporting** phishing attacks.
