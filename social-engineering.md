@@ -4,6 +4,10 @@
 
 ### CLI
 
+[DATA: Credential Phish Analysis and Automation](https://github.com/hadojae/DATA)
+
+- Performs screenshotting and analysis on suspect url(s) for interesting data.
+
 [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 
 ### Webapps
@@ -55,6 +59,10 @@
 [Phyishing with Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
 
 - Using Empire to generate payloads for phishing engagements.
+
+[Russian Hackers Are Using Google's Own Infrastructure to Hack Gmail Users](https://motherboard.vice.com/en_us/article/russian-hackers-are-using-googles-own-infrastructure-to-hack-gmail-users)
+
+- Interesting read on using Google's AMP (Accelerated Mobile Pages) in phishing campaigns to buy trust.
 
 [Simulated Phishing Educational Campaign Guide](https://drive.google.com/file/d/0B46F8RQcMmXUZzNFYkNPWDVIY3c/view)
 

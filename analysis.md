@@ -2,6 +2,10 @@
 
 ## CLI
 
+[PortEx](https://github.com/katjahahn/PortEx)
+
+- A Java library for static malware analysis of Portable Executable files.
+
 [Tweet Analyzer](https://github.com/x0rz/tweets_analyzer)
 
 ---

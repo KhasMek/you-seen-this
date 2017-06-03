@@ -60,6 +60,14 @@ Zines and other online things.
 
 - Paid service to monitor, notify and delete your online presence.
 
+[USaBUSe](https://github.com/sensepost/USaBUSe)
+
+- Universal Serial aBUSe is a project to demonstrate the risks of hardware bypasses of software security by Rogan Dawes at SensePost.
+
+[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+
+- Awesome list for remote jobs.
+
 [WhoDat](https://github.com/MITRECND/WhoDat)
 
 - Pivotable Reverse WhoIs / PDNS Fusion with Registrant Tracking & Alerting plus API for automated queries (JSON/CSV/TXT).

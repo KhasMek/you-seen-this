@@ -26,11 +26,21 @@
 
 ---
 
+## Miscellaneous
+
+[Pixd](https://github.com/FireyFly/pixd)
+
+- A tool for visualizing binary data using a color palette.
+
+---
+
 ## Reverse Engineering
 
 [PBTK](https://github.com/marin-m/pbtk)
 
 - A toolset for reverse engineering and fuzzing Protobuf-based apps.
+
+[radare2](https://github.com/radare/radare2)
 
 [Untwister](https://github.com/hyprwired/untwister)
 
