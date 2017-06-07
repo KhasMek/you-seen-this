@@ -58,6 +58,8 @@
 
 [Kioptrix](http://www.kioptrix.com/blog/media/)
 
+[Set up your own malware analysis lab with VirtualBox, INetSim and Burp](https://blog.christophetd.fr/set-up-your-own-malware-analysis-lab-with-virtualbox-inetsim-and-burp/)
+
 [VulnHub](https://www.vulnhub.com/)
 
 ### Vulnerable VMs
