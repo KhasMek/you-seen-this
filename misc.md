@@ -2,6 +2,16 @@
 
 Links in here either need to be organized, or are here until there are enough links on the subject to merit their own file.
 
+## IOCs
+
+[Awesome IOCs](https://github.com/sroberts/awesome-iocs)
+
+- Awesome list of IOCs (Indicator of Compromise)
+
+[targetedthreats](https://github.com/botherder/targetedthreats)
+
+- Collection of IOCs related to targeting of civil society. With reports, incomplete indicators and Snort rules.
+
 ## Proxies & Reverse Proxies
 
 [Cloud Proxy](https://github.com/tomsteele/cloud-proxy)
@@ -37,6 +47,10 @@ Zines and other online things.
 [Underground](https://suelette.home.xs4all.nl/underground/)
 
 ## Scanners
+
+[credmap](https://github.com/lightos/credmap)
+
+- Scans popular websites to see supplied credentials have been reused on any other sites.
 
 [PERS](https://github.com/mandatoryprogrammer/PERS)
 

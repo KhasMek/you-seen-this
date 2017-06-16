@@ -4,6 +4,10 @@
 
 ### CLI
 
+[CATPHISH](https://github.com/ring0lab/catphish)
+
+- Generate derivative domain names based off a given target using SingularOrPluralise, prependOrAppend, doubleExtensions, mirrorization, homoglyphs, dashOmission and punycode algorithms.
+
 [DATA: Credential Phish Analysis and Automation](https://github.com/hadojae/DATA)
 
 - Performs screenshotting and analysis on suspect url(s) for interesting data.

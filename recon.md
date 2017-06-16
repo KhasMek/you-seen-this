@@ -1,10 +1,18 @@
 # RECON
 
+## DNS/Domains
+
+[Domain Hunter](https://github.com/minisllc/domainhunter)
+
+---
+
 ## Dorking
 
-[https://github.com/Smaash/snitch](Snitch)
+[Snitch](https://github.com/Smaash/snitch)
 
 - Automated information gathering using built in Dorks.
+
+---
 
 ## Hashes, Keys, Creds and Dumps
 

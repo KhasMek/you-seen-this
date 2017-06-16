@@ -26,6 +26,10 @@
 
 ## Misc
 
+[Damn Insecure and Vulnerable App: DIVA Android](https://n0where.net/damn-insecure-and-vulnerable-app-diva-android/)
+
+- Vulnerable Android web app and training material.
+
 [Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)
 
 - A deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.

@@ -12,6 +12,10 @@
 
 [Frida](https://www.frida.re/docs/android/)
 
+### Theory, Articles & Blogs
+
+[A collection of deobfuscation methods and automated deobfuscator tools](https://www.peerlyst.com/posts/deobfuscation-resources-for-various-types-of-files-and-obfuscation-methods-susan-parker)
+
 ---
 
 ## Android

@@ -36,6 +36,10 @@
 
 ## Reverse Engineering
 
+[bingrep](https://github.com/m4b/bingrep)
+
+- Grep through binaries with colorized results.
+
 [PBTK](https://github.com/marin-m/pbtk)
 
 - A toolset for reverse engineering and fuzzing Protobuf-based apps.

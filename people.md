@@ -1,5 +1,15 @@
 # People
 
+## APT Groups and Operators
+
+[APT Groups and Operators](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
+
+- Well organized and robust list of groups.
+
+[misp-galaxy](https://github.com/MISP/misp-galaxy)
+
+- Repo contains multiple clusters, including a threat actor one. All in json for quick sorting.
+
 ## GitHub
 
 [Kingsabri](https://github.com/KINGSABRI)
