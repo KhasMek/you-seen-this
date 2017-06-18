@@ -2,6 +2,8 @@
 
 ## Course Material
 
+[DefenseAgainstTheDarkArts](https://github.com/tuftsdev/DefenseAgainstTheDarkArts/tree/gh-pages/labs)
+
 [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 
 - Course materials for Modern Binary Exploitation by RPISEC.

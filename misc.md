@@ -74,6 +74,14 @@ Zines and other online things.
 
 - Paid service to monitor, notify and delete your online presence.
 
+[PCILeech](https://github.com/ufrisk/pcileech)
+
+- PCILeech uses PCIe hardware devices to read and write from the target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+
+[SniffROM](https://github.com/alainiamburg/sniffROM)
+
+- A tool for passive data capture and reconnaissance of serial flash chips. It is used in conjunction with a Saleae logic analyzer to reconstruct flash memory contents and extract contextual information about device operations.
+
 [USaBUSe](https://github.com/sensepost/USaBUSe)
 
 - Universal Serial aBUSe is a project to demonstrate the risks of hardware bypasses of software security by Rogan Dawes at SensePost.

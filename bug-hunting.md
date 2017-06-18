@@ -16,6 +16,10 @@
 
 ### Webapps
 
+[BountyDash](https://labs.detectify.com/2017/06/15/bountydash-a-local-bug-bounty-statistics-dashboard/)
+
+- A great way to long term track your bug hunting achievements.
+
 ---
 
 ## Debugging
@@ -39,6 +43,10 @@
 [bingrep](https://github.com/m4b/bingrep)
 
 - Grep through binaries with colorized results.
+
+[IDA Skins](https://github.com/zyantific/IDASkins)
+
+- Prevent blindness from IDA Pro's default skin.
 
 [PBTK](https://github.com/marin-m/pbtk)
 

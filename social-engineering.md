@@ -24,6 +24,10 @@
 
 - A very solid phishing platform actively developed and written in Go.
 
+[GoReport](https://github.com/chrismaddalena/GoReport)
+
+- A Python script to collect campaign data from GoPhish and generate a report.
+
 [Mercure](https://github.com/synhack/mercure)
 
 [Phishing Frenzy](https://phishingfrenzy.com)

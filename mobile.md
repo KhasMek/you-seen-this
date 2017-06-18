@@ -4,6 +4,14 @@
 
 ### Mobile Pentesting Frameworks
 
+[appmon](https://github.com/dpnishant/appmon)
+
+- An automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
+
+[Avatar²](https://github.com/avatartwo/)
+
+- A framework with focus on dynamic analysis of embedded devices firmware.
+
 [Dagah](https://www.shevirah.com/dagah/)
 
 - Mobile assessment VM, free and paid versions.
