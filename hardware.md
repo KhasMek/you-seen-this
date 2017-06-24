@@ -18,6 +18,10 @@
 
 - GSM sniffing on a budget.
 
+[Wi-Fi Ducky](https://github.com/spacehuhn/wifi_ducky/blob/master/README.md)
+
+- DIY BTLE controlled Rubber Ducky.
+
 ---
 
 ## Printers
@@ -37,6 +41,12 @@
 [Raspberry Pi Zero USB Dongle](https://www.novaspirit.com/2016/10/18/raspberry-pi-zero-usb-dongle/)
 
 [Wifi Pineapple Firmware for the gli ar-150](http://link.com) (self promotion)
+
+---
+
+## Resources
+
+[Hardware Forensic Database](http://hfdb.io)
 
 ---
 

@@ -56,6 +56,10 @@
 
 - Linux VM pre-configured for online investigators. Developed by David Westcott and Michael Bazzel.
 
+[Pwnbox](https://github.com/superkojiman/pwnbox)
+
+- A Docker container with tools for binary reverse engineering and exploitation. It's primarily geared towards Capture The Flag competitions.
+
 [SOF-ELK](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)
 
 - Security Operations and Forensics Elasticsearch, Logstash, Kibana.

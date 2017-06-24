@@ -2,6 +2,10 @@
 
 ## DNS/Domains
 
+[CloudFail](https://github.com/m0rtem/CloudFail)
+
+- A PoC to help one gather information about a target protected by CloudFlare with configuration issues.
+
 [Domain Hunter](https://github.com/minisllc/domainhunter)
 
 ---

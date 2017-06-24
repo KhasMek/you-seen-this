@@ -62,6 +62,10 @@
 
 ## Theory, Articles & Blogs
 
+[Practical waterholing through DNS typosquatting](https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e)
+
+- Another look into using typo's and punycode to misdirect.
+
 [Hacking The Human: SE Basics](http://sten0.ghost.io/2016/08/17/se-foundations-series/) A series of essays on physical Social Engineering.
 
 [Phyishing with Empire](https://enigma0x3.net/2016/03/15/phishing-with-empire/)

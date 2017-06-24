@@ -44,6 +44,10 @@
 
 - Grep through binaries with colorized results.
 
+[IDA Python Embedded Toolkit](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)
+
+- IDAPython scripts for automating analysis of firmware of embedded devices.
+
 [IDA Skins](https://github.com/zyantific/IDASkins)
 
 - Prevent blindness from IDA Pro's default skin.
