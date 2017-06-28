@@ -24,6 +24,10 @@
 
 - Credmap is an open source tool that was created to bring awareness to the dangers of credential reuse. It is capable of testing supplied user credentials on several known websites to test if the password has been reused on any of these.
 
+[Gitem](https://github.com/mschwager/gitem)
+
+- A Github organization recon tool.
+
 [Gitleaks](https://gitleaks.com/)
 
 [hashes.org](https://hashes.org/public.php)
