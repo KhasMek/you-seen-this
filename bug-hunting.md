@@ -4,11 +4,23 @@
 
 ### CLI
 
+[Bugcrowd api client](https://github.com/asecurityteam/bug_crowd_client)
+
+- A python api client for Bugcrowd.
+
 [Dash](https://github.com/infosec-au/bugbountydash)
+
+[Hackerone Public Reports](https://github.com/upgoingstar/hackerone_public_reports)
+
+- Finds all public bug reports on Hackerone.
 
 [Linkerator](https://github.com/ginjabenjamin/Linkerator)
 
 - Python script to scrape specified web page(s) for external links and verify whether or not it is an active resource.
+
+[LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+
+- A python script that finds endpoints in JavaScript files.
 
 [subdomainator](https://github.com/skorov/subdomainator)
 
@@ -91,6 +103,8 @@
 [How to become a successful Bug Bounty Hunter](https://www.quora.com/How-do-I-become-a-successful-Bug-bounty-hunter)
 
 [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/)
+
+[Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners)
 
 [Scrutiny on the Bug Bounty](https://docs.google.com/presentation/d/1PCnjzCeklOeGMoWiE2IUzlRGOBxNp8K5hLQuvBNzrFY/edit#slide=id.g858d6a346_0_51) (Slides)
 

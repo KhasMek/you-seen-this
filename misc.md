@@ -74,9 +74,21 @@ Zines and other online things.
 
 - Paid service to monitor, notify and delete your online presence.
 
+[hardening](https://github.com/ernw/hardening)
+
+- A list of various hardening guides compiled by ERNW.
+
+[macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+
+- A practical guide to securing macOS.
+
 [PCILeech](https://github.com/ufrisk/pcileech)
 
 - PCILeech uses PCIe hardware devices to read and write from the target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+
+[Security Guid for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+
+- Don't be a bad dev.
 
 [SniffROM](https://github.com/alainiamburg/sniffROM)
 
