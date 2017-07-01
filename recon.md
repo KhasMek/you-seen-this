@@ -28,6 +28,10 @@
 
 - A Github organization recon tool.
 
+[Gitrob](https://github.com/michenriksen/gitrob)
+
+- A tool to help one find sensitive information in public files on GitHub.
+
 [Gitleaks](https://gitleaks.com/)
 
 [hashes.org](https://hashes.org/public.php)
@@ -99,6 +103,10 @@ Yeah yeah, this should probably be in a better section or something.
 [Censys](https://github.com/gelim/censys_)
 
 - Python code to query the Censys public scan database.
+
+[datasploit](https://github.com/DataSploit/datasploit)
+
+- An OSINT Framework to perform various recon techniques, aggregate all the raw data, and give data in multiple formats.
 
 [Insecam](http://insecam.org/)
 

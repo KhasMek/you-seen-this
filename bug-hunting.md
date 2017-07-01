@@ -2,6 +2,16 @@
 
 ## General Use Applications
 
+### BROWSER EXTENSIONS
+
+[Lazy Fuzzer](https://github.com/JacobReynolds/LazyFuzzer)
+
+- Simple Chrome extension to assist in testing for things like xss, etc.
+
+[xssHunterExtension](https://github.com/JacobReynolds/xssHunterExtension)
+
+- Chrome extension for XSS Hunter Payloads.
+
 ### CLI
 
 [Bugcrowd api client](https://github.com/asecurityteam/bug_crowd_client)
@@ -64,6 +74,10 @@
 
 - Prevent blindness from IDA Pro's default skin.
 
+[Lighthouse](https://github.com/gaasedelen/lighthouse)
+
+- Code Coverage Explorer for IDA Pro.
+
 [PBTK](https://github.com/marin-m/pbtk)
 
 - A toolset for reverse engineering and fuzzing Protobuf-based apps.
@@ -109,5 +123,7 @@
 [Scrutiny on the Bug Bounty](https://docs.google.com/presentation/d/1PCnjzCeklOeGMoWiE2IUzlRGOBxNp8K5hLQuvBNzrFY/edit#slide=id.g858d6a346_0_51) (Slides)
 
 [Vulners - HackerOne Blog](https://blog.vulners.com/feed/)
+
+[TGaktikselBugHunting](https://github.com/meliht/TaktikselBugHunting)
 
 ---
