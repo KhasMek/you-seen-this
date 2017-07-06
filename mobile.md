@@ -54,6 +54,10 @@
 
 [Backdoor.apk](http://www.kitploit.com/2016/12/backdoor-apk-shell-script-that.html)
 
+[Kwetza](https://github.com/sensepost/kwetza)
+
+- A tool that allows you to infect an existing Android application with a Meterpreter payload.
+
 ### Theory, Articles & Blogs
 
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)

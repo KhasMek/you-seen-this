@@ -76,6 +76,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 - All the recon.
 
+[Metagoofil](https://github.com/laramies/metagoofil)
+
+- A tool for extracting metadata of public documents (pdf,doc,xls,ppt,etc) availables in the target websites.
+
 [Snoopy-ng](https://github.com/sensepost/snoopy-ng)
 
 - A distributed sensor, data collection, interception, analysis and visualization framework written in python.

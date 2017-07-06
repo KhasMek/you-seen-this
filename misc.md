@@ -74,6 +74,10 @@ Zines and other online things.
 
 - Paid service to monitor, notify and delete your online presence.
 
+[DropboxC2C](https://github.com/0x09AL/DropboxC2C)
+
+- A post-exploitation agent which uses Dropbox Infrastructure for command and control operations.
+
 [hardening](https://github.com/ernw/hardening)
 
 - A list of various hardening guides compiled by ERNW.
@@ -97,6 +101,10 @@ Zines and other online things.
 [SniffROM](https://github.com/alainiamburg/sniffROM)
 
 - A tool for passive data capture and reconnaissance of serial flash chips. It is used in conjunction with a Saleae logic analyzer to reconstruct flash memory contents and extract contextual information about device operations.
+
+[sshttp](https://github.com/stealth/sshttp)
+
+- Run a webserver and sshd on the same port.
 
 [USaBUSe](https://github.com/sensepost/USaBUSe)
 

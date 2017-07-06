@@ -78,6 +78,10 @@
 
 - Code Coverage Explorer for IDA Pro.
 
+[MD380 USB Tools](https://github.com/travisgoodspeed/md380tools)
+
+- Tools for working with codeplugs and firmware of the Tytera MD380. The wiki has a ton of documentation as well.
+
 [PBTK](https://github.com/marin-m/pbtk)
 
 - A toolset for reverse engineering and fuzzing Protobuf-based apps.
