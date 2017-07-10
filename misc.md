@@ -118,5 +118,9 @@ Zines and other online things.
 
 - Pivotable Reverse WhoIs / PDNS Fusion with Registrant Tracking & Alerting plus API for automated queries (JSON/CSV/TXT).
 
+[wifijammer](https://github.com/DanMcInerney/wifijammer)
+
+- Jam all wifi clients/routers.
+
 ---
 

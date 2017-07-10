@@ -122,6 +122,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 [Paterva - Maltego](https://www.paterva.com/web7/index.php)
 
+[Prowl](https://github.com/nettitude/Prowl)
+
+- Scrape LinkedIn for company staff members.
+
 [PwnedConsole](https://github.com/K0FIN/PwnedConsole)
 
 [Shodan.io](https://www.shodan.io/)
