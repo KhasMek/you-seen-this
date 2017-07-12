@@ -58,9 +58,17 @@
 
 - A tool for visualizing binary data using a color palette.
 
+[python-idb](https://github.com/williballenthin/python-idb)
+
+- Pure Python parser and analyzer for IDA Pro database files (.idb).
+
 ---
 
 ## Reverse Engineering
+
+[binexport](https://github.com/google/binexport)
+
+- An IDA Pro plugin for exporting disassemblies into BinNavi databases and to Protocol Buffers.
 
 [bingrep](https://github.com/m4b/bingrep)
 

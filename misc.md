@@ -70,6 +70,10 @@ Zines and other online things.
 
 - Create On Demand OpenVPN Endpoints on AWS.
 
+[binctr](https://github.com/jessfraz/binctr)
+
+- Fully static, unprivileged, self-contained, containers as executable binaries.
+
 [DeleteMe](https://www.abine.com/deleteme/landing.php)
 
 - Paid service to monitor, notify and delete your online presence.
@@ -105,6 +109,10 @@ Zines and other online things.
 [sshttp](https://github.com/stealth/sshttp)
 
 - Run a webserver and sshd on the same port.
+
+[static binaries](https://github.com/andrew-d/static-binaries)
+
+- Various *nix tools built as statically-linked binaries.
 
 [USaBUSe](https://github.com/sensepost/USaBUSe)
 

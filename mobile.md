@@ -72,9 +72,17 @@
 
 [Hack Android Using Kali](https://null-byte.wonderhowto.com/how-to/hack-android-using-kali-updated-and-faq-0164704/)
 
+[Library injection for debuggable Android apps](https://koz.io/library-injection-for-debuggable-android-apps/)
+
+- Using Frida against apks compiled as debuggable to do testing.
+
 [Reverse Engineering Reading List](https://github.com/onethawt/reverseengineering-reading-list)
 
 - Not the perfect spot for this list. But, it can live here until there's a more general rev-eng area.
+
+[Using Frida on Android without root](https://koz.io/using-frida-on-android-without-root/)
+
+- Using Frida against apks compiled as debuggable to test apps on non-rooted Android devices.
 
 ---
 

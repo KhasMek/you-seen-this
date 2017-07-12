@@ -8,6 +8,10 @@
 
 [Domain Hunter](https://github.com/minisllc/domainhunter)
 
+[XRay](https://github.com/evilsocket/xray)
+
+- A tool for recon, mapping and OSINT gathering from public networks.
+
 ---
 
 ## Dorking
