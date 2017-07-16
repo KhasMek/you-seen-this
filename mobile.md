@@ -60,6 +60,8 @@
 
 ### Theory, Articles & Blogs
 
+[Advanced Android Bug Bounty Skills](https://docs.google.com/presentation/d/1SqZhtxqCypVEsOcQXzG2FYDof-7RvY2GA5j1EawfVdM/edit#slide=id.p)
+
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 - Not the perfect spot for this list. But, it can live here until there's a more general rev-eng area.
