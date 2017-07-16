@@ -30,6 +30,10 @@
 
 - Wordlists sorted by populatirty originally created for password generation and testing.
 
+[SecLists](https://github.com/danielmiessler/SecLists)
+
+- The go to for wordlists.
+
 [zedz.net](ftp://ftp.zedz.net/pub/crypto/wordlists/)
 
 ---
