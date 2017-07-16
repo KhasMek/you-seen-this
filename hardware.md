@@ -4,9 +4,13 @@
 
 [Rysc Corp](https://store.ryscc.com/collections/all)
 
+[PandwaRF](https://pandwarf.com/)
+
+- A sub 1GHz SDR that can connect to mobile devices via BLE or to a linux computer via USB.
+
 ---
 
-## Misc
+## Miscellaneous
 
 [Bishop Fox Tastic RFID Thief](https://www.bishopfox.com/resources/tools/rfid-hacking/attack-tools/)
 
@@ -52,14 +56,13 @@
 
 ## Wireless Technologies
 
-### Bluetooth (BLE)
+### Bluetooth - BLE
 
 [Capturing BLE in Wireshark](https://github.com/greatscottgadgets/ubertooth/wiki/Capturing-BLE-in-Wireshark)
 
 - using the ubertooth one
-[PandwaRF](https://pandwarf.com/)
 
-### SDR (Software Define Radio)
+### Software Define Radio - SDR
 
 [Field Expedient SDR](http://www.fieldxp.com/links/)
 

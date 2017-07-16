@@ -58,7 +58,7 @@
 
 - A tool that allows you to infect an existing Android application with a Meterpreter payload.
 
-### Theory, Articles & Blogs
+### Android Theory, Articles & Blogs
 
 [Advanced Android Bug Bounty Skills](https://docs.google.com/presentation/d/1SqZhtxqCypVEsOcQXzG2FYDof-7RvY2GA5j1EawfVdM/edit#slide=id.p)
 

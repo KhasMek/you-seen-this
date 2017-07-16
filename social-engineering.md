@@ -14,7 +14,9 @@
 
 [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 
-### Webapps
+- The go-to for building up SE campaigns.
+
+### Web Apps
 
 [Duo Insight](https://duo.com/resources/duo-insight)
 

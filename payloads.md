@@ -50,7 +50,7 @@
 
 ---
 
-## Misc (to be categorized)
+## Miscellaneous
 
 [CHAOS Framework](https://github.com/tiagorlampert/CHAOS)
 

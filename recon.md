@@ -66,7 +66,7 @@ Yeah yeah, this should probably be in a better section or something.
 
 [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 
--A curated list of amazingly awesome open source intelligence tools and resources.
+- A curated list of amazingly awesome open source intelligence tools and resources.
 
 [Canarytokens](https://canarytokens.org/generate)
 
@@ -158,7 +158,7 @@ Yeah yeah, this should probably be in a better section or something.
 
 ---
 
-# VCS
+## VCS
 
 [vcsmap](https://github.com/melvinsh/vcsmap)
 

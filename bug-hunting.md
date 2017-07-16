@@ -2,7 +2,7 @@
 
 ## General Use Applications
 
-### BROWSER EXTENSIONS
+### Browser Extensions
 
 [Lazy Fuzzer](https://github.com/JacobReynolds/LazyFuzzer)
 
@@ -36,7 +36,7 @@
 
 - Stay on top of new subdomains! Bug bounty hunters can use this tool to receive Pushbullet notifications each time there is a new target subdomain.
 
-### Webapps
+### Web Apps
 
 [BountyDash](https://labs.detectify.com/2017/06/15/bountydash-a-local-bug-bounty-statistics-dashboard/)
 

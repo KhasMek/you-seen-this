@@ -26,7 +26,7 @@
 
 ---
 
-## Misc
+## Miscellaneous
 
 [Damn Insecure and Vulnerable App: DIVA Android](https://n0where.net/damn-insecure-and-vulnerable-app-diva-android/)
 
