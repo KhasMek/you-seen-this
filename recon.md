@@ -64,6 +64,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 ## Miscellaneous
 
+[Awesome OSINT](https://github.com/jivoi/awesome-osint)
+
+-A curated list of amazingly awesome open source intelligence tools and resources.
+
 [Canarytokens](https://canarytokens.org/generate)
 
 - Track when someone queries a database, reads a file, performs a bitcoin transaction, views a Linkedin Profile and many other randomly amazing things.
@@ -115,6 +119,10 @@ Yeah yeah, this should probably be in a better section or something.
 [datasploit](https://github.com/DataSploit/datasploit)
 
 - An OSINT Framework to perform various recon techniques, aggregate all the raw data, and give data in multiple formats.
+
+[Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration)
+
+- This repository contains all the talk materials, videos and scripts from the talk "Esoteric sub-domain enumeration techniques" given at Bugcrowd LevelUp 2017 virtual conference.
 
 [Insecam](http://insecam.org/)
 

@@ -94,7 +94,13 @@
 
 - A toolset for reverse engineering and fuzzing Protobuf-based apps.
 
+[r4ge](https://github.com/gast04/r4ge)
+
+- A radare2 Plugin to perform symbolic execution with a simple macro call. Internally it uses angr as execution engine. The Usage is possible with and without debugger, dynamic and static analysis mode.
+
 [radare2](https://github.com/radare/radare2)
+
+- Unix-like reverse engineering framework and commandline tools.
 
 [Untwister](https://github.com/hyprwired/untwister)
 
@@ -121,6 +127,8 @@
 [How to Become a Bug Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102?utm_content=54464164&utm_medium=social&utm_source=twitter)
 
 - Great little write-up by Bug Crowd.
+
+[How To Fail At Bughunting](http://blog.bountyhuntersguild.com/assets/BugBountyFails-LevelUp.pdf)
 
 [Improving Your Reports](https://sites.google.com/site/bughunteruniversity/improve)
 

@@ -72,6 +72,10 @@
 
 [Hack Android Using Kali](https://null-byte.wonderhowto.com/how-to/hack-android-using-kali-updated-and-faq-0164704/)
 
+[Identifying and Evading Android Protections](https://drive.google.com/file/d/0Bw5_EgjfkDvYd1J5dXF6T3pBZGs/view)
+
+- From the 2017 BugCrowd Level Up virtual conference.
+
 [Library injection for debuggable Android apps](https://koz.io/library-injection-for-debuggable-android-apps/)
 
 - Using Frida against apks compiled as debuggable to do testing.

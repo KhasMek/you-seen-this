@@ -52,6 +52,10 @@
 
 ## Misc (to be categorized)
 
+[CHAOS Framework](https://github.com/tiagorlampert/CHAOS)
+
+- A framework that allows users to generate payloads and control remote machines.
+
 [CyberChef](https://gchq.github.io/CyberChef/)
 
 [TheFatRat](https://github.com/Screetsec/TheFatRat)
