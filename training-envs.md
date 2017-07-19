@@ -4,6 +4,10 @@
 
 [DefenseAgainstTheDarkArts](https://github.com/tuftsdev/DefenseAgainstTheDarkArts/tree/gh-pages/labs)
 
+[how2heap](https://github.com/shellphish/how2heap)
+
+- A repository for learning various heap exploitation techniques.
+
 [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
 
 - Course materials for Modern Binary Exploitation by RPISEC.

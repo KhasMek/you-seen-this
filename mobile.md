@@ -24,6 +24,12 @@
 
 [A collection of deobfuscation methods and automated deobfuscator tools](https://www.peerlyst.com/posts/deobfuscation-resources-for-various-types-of-files-and-obfuscation-methods-susan-parker)
 
+[HOW TO: Exploit Routers on an Unrooted Android Phone](https://null-byte.wonderhowto.com/how-to/exploit-routers-unrooted-android-phone-0178066/?utm_content=buffer377ca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+- A nice article on setting up GNURootDebian and RouterSploit on an Android device.
+
+[Introduction To Writing Shellcode](http://azeria-labs.com/writing-arm-shellcode/)
+
 ---
 
 ## Android

@@ -24,6 +24,10 @@
 
 - Finds all public bug reports on Hackerone.
 
+[JSParser](https://github.com/nahamsec/JSParser)
+
+- A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from JavaScript files.
+
 [Linkerator](https://github.com/ginjabenjamin/Linkerator)
 
 - Python script to scrape specified web page(s) for external links and verify whether or not it is an active resource.
@@ -93,6 +97,10 @@
 [PBTK](https://github.com/marin-m/pbtk)
 
 - A toolset for reverse engineering and fuzzing Protobuf-based apps.
+
+[PyREBox](https://github.com/Cisco-Talos/pyrebox)
+
+- A Python scriptable Reverse Engineering sandbox make by Cisco Talos.
 
 [r4ge](https://github.com/gast04/r4ge)
 

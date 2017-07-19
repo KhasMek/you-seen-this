@@ -18,6 +18,8 @@
 
 [DIY Rubber Ducky](https://www.pentestingshop.com/pentesting/make-your-own-usb-rubber-ducky-using-a-normal-usb-stick/)
 
+[Installing OpenWRT and RTL-SDR on a used $20 Router](http://www.rtl-sdr.com/installing-openwrt-and-rtl-sdr-on-a-used-20-router/)
+
 [Multi-RTL](https://hackaday.com/2017/01/30/gsm-sniffing-on-a-budget-with-multi-rtl/)
 
 - GSM sniffing on a budget.
