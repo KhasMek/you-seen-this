@@ -8,6 +8,8 @@ Some of these may be more common knowledge (or useful) than others, but I'm leav
 
 This really needs to get some better organization going, if anyone wants to help. ;)
 
+Note: Half the time the included descriptions are straight copy/pastes or slight deviations of the authors/companies description of the listing. So, assume zero original content in here and don't tase me for plagiarism. If a URL with your description is on here, and you'd like me to remove it, easy peasy just let me know.
+
 ---
 
 ## Analysis
