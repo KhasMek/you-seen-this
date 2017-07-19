@@ -20,6 +20,12 @@
 
 [Frida](https://www.frida.re/docs/android/)
 
+### Miscellaneous
+
+[Elcomsoft Phone Breaker](https://www.elcomsoft.com/eppb.html)
+
+- Elcomsoft Phone Breaker enables forensic access to password-protected backups for smartphones and portable devices based on RIM BlackBerry and Apple iOS platforms.
+
 ### Theory, Articles & Blogs
 
 [A collection of deobfuscation methods and automated deobfuscator tools](https://www.peerlyst.com/posts/deobfuscation-resources-for-various-types-of-files-and-obfuscation-methods-susan-parker)

@@ -73,6 +73,7 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 - [General](mobile.md#General)
     + [Mobile Pentesting Frameworks](mobile.md#Mobile_Pentesting_Frameworks)
     + [Java](mobile.md#Java)
+    + [Miscellaneous](mobile.md#Miscellaneous)
     + [Theory, Articles & Blogs](mobile.md#Theory,_Articles_&_Blogs)
 - [Android](mobile.md#Android)
     + [Firmware](mobile.md#Firmware)
