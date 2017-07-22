@@ -44,6 +44,14 @@
 
 ---
 
+## Javascript Payloads
+
+[http://www.xss-payloads.com/index.html](XSS Payloads)
+
+- A site with over 50 different payloads, tools, doc and help presented with great categorization.
+
+---
+
 ## Metasploit
 
 [Veil](https://github.com/Veil-Framework/Veil)

@@ -92,6 +92,7 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 - [Detection](payloads.md#Detection)
 - [Evasion](payloads.md#Evasion)
 - [HTTP Command Injection](payloads.md#HTTP_Command_Injection)
+- [Javascript Payloads](payloads.md#Javascript_Payloads)
 - [Metasploit](payloads.md#Metasploit)
 - [Miscellaneous](payloads.md#Miscellaneous)
 - [Office Documents](payloads.md#Office_Documents)

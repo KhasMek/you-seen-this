@@ -74,6 +74,10 @@
 
 [Advanced Android Bug Bounty Skills](https://docs.google.com/presentation/d/1SqZhtxqCypVEsOcQXzG2FYDof-7RvY2GA5j1EawfVdM/edit#slide=id.p)
 
+[Android App Security Checklist](https://github.com/b-mueller/android_app_security_checklist/blob/master/README.md)
+
+- A checklist with security considerations for designing, testing, and releasing secure Android apps. Can also be used to give you ideas of things to look for when performing app assessments.
+
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 - Not the perfect spot for this list. But, it can live here until there's a more general rev-eng area.

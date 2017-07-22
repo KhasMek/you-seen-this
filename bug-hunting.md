@@ -122,7 +122,15 @@
 
 - Ask Me Anything with the current top bug hunter on BugCrowd.
 
+[Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
+
+- A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters.
+
 [Bug Bounty in Five Years](https://medium.com/@collingreene/bug-bounty-5-years-in-c95cda604365#.h49rh8p7t)
+
+[Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference)
+
+- A list of bug bounty write-up that is categorized by the bug nature, this is inspired by Awesome Bug Bounty.
 
 [Bugcrowd](https://bugcrowd.com/)
 
