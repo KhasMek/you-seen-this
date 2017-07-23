@@ -12,6 +12,10 @@
 
 - Elcomsoft Phone Breaker enables forensic access to password-protected backups for smartphones and portable devices based on RIM BlackBerry and Apple iOS platforms.
 
+[Objection](https://github.com/sensepost/objection)
+
+- A runtime mobile exploration toolkit, powered by Frida.
+
 ### Mobile Pentesting Frameworks
 
 [appmon](https://github.com/dpnishant/appmon)
