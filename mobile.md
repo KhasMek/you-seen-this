@@ -106,6 +106,8 @@
 
 - Not the perfect spot for this list. But, it can live here until there's a more general rev-eng area.
 
+[Universal Android SSL Pinning bypass with Frida](https://techblog.mediaservice.net/2017/07/universal-android-ssl-pinning-bypass-with-frida/)
+
 [Using Frida on Android without root](https://koz.io/using-frida-on-android-without-root/)
 
 - Using Frida against apks compiled as debuggable to test apps on non-rooted Android devices.

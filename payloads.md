@@ -88,6 +88,10 @@
 
 [EmPyre](https://github.com/EmpireProject/EmPyre)
 
+[SecretServerSecretStealer](https://github.com/denandz/SecretServerSecretStealer)
+
+- A powershell script that allows for the decryption of passwords (and other items) stored within a Thycotic Secret Server installation. Two methods are exposed, Invoke-SecretDecrypt and Invoke-SecretStealer.
+
 ---
 
 ## Theory, Articles & Blogs
