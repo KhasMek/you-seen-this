@@ -103,3 +103,11 @@
 [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ---
+
+## Windows
+
+[NPS Payload](https://github.com/trustedsec/nps_payload)
+
+- This script will generate payloads for basic intrusion detection avoidance. It utilizes publicly demonstrated techniques from several different sources.
+
+---

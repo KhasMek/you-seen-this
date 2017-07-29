@@ -60,6 +60,10 @@
 
 ### Frameworks
 
+[Brida](https://github.com/federicodotta/Brida)
+
+- A Burp extension that acts as a bridge between Burp and Frida.
+
 [MARA Framework](https://github.com/xtiankisutsa/MARA_Framework)
 
 [Smali Emulator](https://github.com/evilsocket/smali_emulator)
@@ -93,6 +97,10 @@
 [Create reverse Meterpreter APK](https://null-byte.wonderhowto.com/forum/create-and-use-android-meterpreter-reverse-tcp-apk-with-msfvenom-0162921/)
 
 [Hack Android Using Kali](https://null-byte.wonderhowto.com/how-to/hack-android-using-kali-updated-and-faq-0164704/)
+
+[How To Spy On Your Android Phone](https://privsec.blog/how-to-spy-on-your-android-phone/)
+
+- A how to on using Burp against an Android device.
 
 [Identifying and Evading Android Protections](https://drive.google.com/file/d/0Bw5_EgjfkDvYd1J5dXF6T3pBZGs/view)
 

@@ -60,6 +60,10 @@
 
 - Linux VM pre-configured for online investigators. Developed by David Westcott and Michael Bazzel.
 
+[Flare VM](https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html)
+
+- An article and powershell script describing how to set up a windows based Malware analysis VM.
+
 [Pwnbox](https://github.com/superkojiman/pwnbox)
 
 - A Docker container with tools for binary reverse engineering and exploitation. It's primarily geared towards Capture The Flag competitions.

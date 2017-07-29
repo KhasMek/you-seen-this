@@ -2,6 +2,14 @@
 
 Links in here either need to be organized, or are here until there are enough links on the subject to merit their own file.
 
+## Forensic
+
+[Timesketch](https://github.com/google/timesketch)
+
+- An open source tool for collaborative forensic timeline analysis.
+
+---
+
 ## IOCs
 
 [Awesome IOCs](https://github.com/sroberts/awesome-iocs)
@@ -11,6 +19,8 @@ Links in here either need to be organized, or are here until there are enough li
 [targetedthreats](https://github.com/botherder/targetedthreats)
 
 - Collection of IOCs related to targeting of civil society. With reports, incomplete indicators and Snort rules.
+
+---
 
 ## Proxies & Reverse Proxies
 
@@ -68,6 +78,10 @@ Zines and other online things.
 
 ## Undefined
 
+[AIMSICD (Android IMSI Catcher Detector)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector)
+
+- An Android app to detect IMSI-Catchers.
+
 [AutoVPN](https://github.com/ttlequals0/autovpn)
 
 - Create On Demand OpenVPN Endpoints on AWS.
@@ -95,6 +109,10 @@ Zines and other online things.
 [PCILeech](https://github.com/ufrisk/pcileech)
 
 - PCILeech uses PCIe hardware devices to read and write from the target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+
+[Public API's](https://github.com/toddmotto/public-apis)
+
+- A collective list of free JSON APIs for use in web development.
 
 [Scumblr](https://github.com/Netflix/Scumblr)
 

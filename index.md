@@ -59,6 +59,7 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 
 [Miscellaneous](misc.md)
 
+- [Forensic](misc.md#Forensic)
 - [IOCs](misc.md#IOCs)
 - [Proxies & Reverse Proxies](misc.md#Proxies_&_Reverse_Proxies)
 - [Publications](misc.md#Publications)
@@ -98,6 +99,7 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 - [Office Documents](payloads.md#Office_Documents)
 - [Powershell](payloads.md#Powershell)
 - [Theory, Articles & Blogs](payloads.md#Theory,_Articles_&_Blogs)
+- [Windows](payloads.md#Windows)
 
 ## Pentesting
 
