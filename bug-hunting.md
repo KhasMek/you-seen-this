@@ -152,6 +152,8 @@
 
 [How to become a successful Bug Bounty Hunter](https://www.quora.com/How-do-I-become-a-successful-Bug-bounty-hunter)
 
+[Radare2 Dubugger Complete Cheat Sheet](https://quizlet.com/182492323/radare2-debugger-complete-cheat-sheet-flash-cards/)
+
 [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/)
 
 [Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners)

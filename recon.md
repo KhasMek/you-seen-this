@@ -92,6 +92,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 - A distributed sensor, data collection, interception, analysis and visualization framework written in python.
 
+[WaubackUnfinder](https://github.com/mhmdiaa/waybackunifier)
+
+- A tool that allows one to take a look at how a file has ever looked by aggregating all versions of this file, and creating a unified version that contains every line that has ever been in it.
+
 ## Organizations
 
 [Gitem](https://github.com/mschwager/gitem)
@@ -132,6 +136,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 - A tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints.
 
+[O.D.I.N.](https://github.com/chrismaddalena/viper)
+
+- A Python tool for automating penetration testing work, like intelligence gathering, testing, and reporting.
+
 [Paterva - Maltego](https://www.paterva.com/web7/index.php)
 
 [Prowl](https://github.com/nettitude/Prowl)
@@ -155,6 +163,16 @@ Yeah yeah, this should probably be in a better section or something.
 - E-mail, subdomain and people names harvester.
 
 [Threat Crowd](https://threatcrowd.org/)
+
+---
+
+## Theory, Articles & Blogs
+
+[Automatically Discover Website Connections Through Tracking Codes](http://www.automatingosint.com/blog/2017/07/osint-website-connections-tracking-codes/)
+
+[Galvanize Capstone Series: Geolocation of Twitter Users](https://www.continuum.io/blog/developer-blog/galvanize-capstone-series-geolocation-twitter-users)
+
+[Metadata: a hacker's best friend](https://blog.sweepatic.com/metadata-hackers-best-friend/)
 
 ---
 

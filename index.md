@@ -81,6 +81,7 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
     + [Decompiler & Debuggers](mobile.md#Decompiler_&_Debuggers)
     + [Emulation](mobile.md#Emulation)
     + [Frameworks](mobile.md#Frameworks)
+    + [Miscellaneous](mobile.md#Miscellaneous)
     + [Payloads](mobile.md#Payloads)
     + [Android Theory, Articles & Blogs](mobile.md#Android_Theory,_Articles_&_Blogs)
 - [iOS](mobile.md#iOS)
@@ -136,6 +137,7 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 - [Organizations](recon.md#Organizations)
 - [People](recon.md#People)
 - [Search/Recon Engines, API's & Programs](recon.md#Search/Recon_Engines,_API's_&_Programs)
+- [Theory, Articles & Blogs](recon.md#Theory,_Articles_&_Blogs)
 - [VCS](recon.md#VCS)
 
 ## Social Engineering
