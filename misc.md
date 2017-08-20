@@ -74,6 +74,10 @@ Zines and other online things.
 
 - A python program to create a fake AP and sniff data.
 
+[PcapViz](https://github.com/mateuszk87/PcapViz)
+
+- Visualize network topologies and provides graph statistics based on pcap files. It should be possible to determine key topological nodes or data exfiltration attempts more easily.
+
 ---
 
 ## Undefined
@@ -89,6 +93,14 @@ Zines and other online things.
 [binctr](https://github.com/jessfraz/binctr)
 
 - Fully static, unprivileged, self-contained, containers as executable binaries.
+
+[CEmu](https://github.com/hugsy/cemu)
+
+- Cheap EMUlator: lightweight multi-architecture assembly playground.
+
+[CHIPSEC](https://github.com/chipsec/chipsec)
+
+- A framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components.
 
 [DeleteMe](https://www.abine.com/deleteme/landing.php)
 

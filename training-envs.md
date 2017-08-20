@@ -28,6 +28,10 @@
 
 - A *holy cow* source for tons of vuln vms and a fantastic network map for those that want to deploy it all.
 
+[SecGen](https://github.com/cliffe/SecGen)
+
+- Dynamically create vulnerable virtual machines with random security issues.
+
 ---
 
 ## Miscellaneous
@@ -77,6 +81,10 @@
 [Kioptrix](http://www.kioptrix.com/blog/media/)
 
 [Set up your own malware analysis lab with VirtualBox, INetSim and Burp](https://blog.christophetd.fr/set-up-your-own-malware-analysis-lab-with-virtualbox-inetsim-and-burp/)
+
+[Shellter Labs](https://shellterlabs.com)
+
+- A huge resource of CTF's that have taken place in the past. Organized nicely and easy to play.
 
 [VulnHub](https://www.vulnhub.com/)
 

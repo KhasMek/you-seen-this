@@ -6,6 +6,10 @@
 
 - A PoC to help one gather information about a target protected by CloudFlare with configuration issues.
 
+[Domain Analyzer](https://github.com/eldraco/domain_analyzer)
+
+- A security analysis tool which automatically discovers and reports information about the given domain. Its main purpose is to analyze domains in an unattended way.
+
 [Domain Hunter](https://github.com/minisllc/domainhunter)
 
 [XRay](https://github.com/evilsocket/xray)
@@ -15,6 +19,14 @@
 ---
 
 ## Dorking
+
+[GooDork](https://github.com/k3170makan/GooDork)
+
+- A command line google dorking tool.
+
+[Github Dorks](https://github.com/techgaun/github-dorks)
+
+- A collection of github dorks and helper tool to automate the process of checking dorks.
 
 [Snitch](https://github.com/Smaash/snitch)
 
@@ -36,7 +48,13 @@
 
 - A tool to help one find sensitive information in public files on GitHub.
 
+[GitLeak](https://github.com/lfzark/gitleak)
+
+- A tool library for searching sourcecode on github.
+
 [Gitleaks](https://gitleaks.com/)
+
+- Site is currently down, but claims to be coming back online (see tool above).
 
 [hashes.org](https://hashes.org/public.php)
 
@@ -91,6 +109,10 @@ Yeah yeah, this should probably be in a better section or something.
 [Snoopy-ng](https://github.com/sensepost/snoopy-ng)
 
 - A distributed sensor, data collection, interception, analysis and visualization framework written in python.
+
+[SpiderFoot](http://www.spiderfoot.net/)
+
+- An open source intelligence automation tool. Its goal is to automate the process of gathering intelligence about a given target.
 
 [WaubackUnfinder](https://github.com/mhmdiaa/waybackunifier)
 

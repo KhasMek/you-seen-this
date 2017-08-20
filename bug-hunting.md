@@ -40,6 +40,10 @@
 
 - Stay on top of new subdomains! Bug bounty hunters can use this tool to receive Pushbullet notifications each time there is a new target subdomain.
 
+[Sully](https://github.com/OpenRCE/sulley)
+
+- A fuzzing engine and fuzz testing framework consisting of multiple extensible components.
+
 ### Web Apps
 
 [BountyDash](https://labs.detectify.com/2017/06/15/bountydash-a-local-bug-bounty-statistics-dashboard/)
