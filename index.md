@@ -61,10 +61,10 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 
 - [Forensic](misc.md#Forensic)
 - [IOCs](misc.md#IOCs)
+- [Networking](misc.md#Networking)
 - [Proxies & Reverse Proxies](misc.md#Proxies_&_Reverse_Proxies)
 - [Publications](misc.md#Publications)
 - [Scanners](misc.md#Scanners)
-- [Wireless](misc.md#Wireless)
 - [Undefined](misc.md#Undefined)
 
 ## Mobile Devices

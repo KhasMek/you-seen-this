@@ -82,6 +82,10 @@
 
 - Grep through binaries with colorized results.
 
+[GR Keyfob](https://github.com/bastibl/gr-keyfob)
+
+- Transceiver for Hella wireless car key fobs.
+
 [IDA Python Embedded Toolkit](https://github.com/maddiestone/IDAPythonEmbeddedToolkit)
 
 - IDAPython scripts for automating analysis of firmware of embedded devices.
@@ -161,6 +165,8 @@
 [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/)
 
 [Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners)
+
+[Reverse Engineering Malicious Code Tips](https://zeltser.com/reverse-engineering-malicious-code-tips/)
 
 [Scrutiny on the Bug Bounty](https://docs.google.com/presentation/d/1PCnjzCeklOeGMoWiE2IUzlRGOBxNp8K5hLQuvBNzrFY/edit#slide=id.g858d6a346_0_51) (Slides)
 

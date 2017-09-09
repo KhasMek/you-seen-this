@@ -72,6 +72,10 @@
 
 - A Docker container with tools for binary reverse engineering and exploitation. It's primarily geared towards Capture The Flag competitions.
 
+[Qemu Images To Play With](https://blahcat.github.io/2017/06/25/qemu-images-to-play-with/)
+
+- Ready-to-play Qemu images for under-rated architectures (ARM, MIPS, PowerPC, SPARC, AARCH64) to play with, with all the tools builtin to understand memory corruption on non x86 environments.
+
 [SOF-ELK](https://github.com/philhagen/sof-elk/blob/master/VM_README.md)
 
 - Security Operations and Forensics Elasticsearch, Logstash, Kibana.

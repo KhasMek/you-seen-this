@@ -66,6 +66,10 @@
 
 [CyberChef](https://gchq.github.io/CyberChef/)
 
+[RemoteRecon](https://github.com/xorrior/RemoteRecon)
+
+- RemoteRecon provides the ability to execute post-exploitation capabilities against a remote host, without having to expose your complete toolkit/agent.
+
 [TheFatRat](https://github.com/Screetsec/TheFatRat)
 
 - An easy tool to generate backdoor and easy tool to post exploitation attack like browser attack,dll . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection.

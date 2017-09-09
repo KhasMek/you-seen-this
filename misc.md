@@ -22,6 +22,22 @@ Links in here either need to be organized, or are here until there are enough li
 
 ---
 
+## Networking
+
+[mitmAP](https://github.com/xdavidhu/mitmAP)
+
+- A python program to create a fake AP and sniff data.
+
+[PcapViz](https://github.com/mateuszk87/PcapViz)
+
+- Visualize network topologies and provides graph statistics based on pcap files. It should be possible to determine key topological nodes or data exfiltration attempts more easily.
+
+[PCredz](https://github.com/lgandx/PCredz)
+
+- A tool to extract credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
+
+---
+
 ## Proxies & Reverse Proxies
 
 [Cloud Proxy](https://github.com/tomsteele/cloud-proxy)
@@ -67,16 +83,6 @@ Zines and other online things.
 [PERS](https://github.com/mandatoryprogrammer/PERS)
 
 - A passive scanning tool for finding expired domain vulnerabilities while you browse.
-
-## Wireless
-
-[mitmAP](https://github.com/xdavidhu/mitmAP)
-
-- A python program to create a fake AP and sniff data.
-
-[PcapViz](https://github.com/mateuszk87/PcapViz)
-
-- Visualize network topologies and provides graph statistics based on pcap files. It should be possible to determine key topological nodes or data exfiltration attempts more easily.
 
 ---
 

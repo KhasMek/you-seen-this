@@ -90,6 +90,10 @@ Yeah yeah, this should probably be in a better section or something.
 
 - Track when someone queries a database, reads a file, performs a bitcoin transaction, views a Linkedin Profile and many other randomly amazing things.
 
+[CloudFire](https://github.com/RhinoSecurityLabs/Security-Research/tree/master/tools/cfire)
+
+- Discover potential IP's leaking from behind cloud-proxied services, e.g. Cloudflare.
+
 [ExtractHosts](https://github.com/bwall/ExtractHosts)
 
 - Extracts hosts (IP/Hostnames) from files.
