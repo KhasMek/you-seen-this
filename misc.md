@@ -132,6 +132,10 @@ Zines and other online things.
 
 - A collective list of free JSON APIs for use in web development.
 
+[PwnTools](https://github.com/Gallopsled/pwntools)
+
+- A CTF framework and exploit development library.
+
 [Scumblr](https://github.com/Netflix/Scumblr)
 
 - A web framework that allows performing periodic syncs of data sources and performing analysis on the identified results.
@@ -155,6 +159,10 @@ Zines and other online things.
 [USaBUSe](https://github.com/sensepost/USaBUSe)
 
 - Universal Serial aBUSe is a project to demonstrate the risks of hardware bypasses of software security by Rogan Dawes at SensePost.
+
+[Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
+
+- Awesome list for exploit dev.
 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 

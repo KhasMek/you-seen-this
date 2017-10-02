@@ -78,9 +78,17 @@ Yeah yeah, this should probably be in a better section or something.
 
 [HoneyPy](https://github.com/foospidy/HoneyPy/tree/master/loggers)
 
+[Modern Noneypot Network](https://github.com/threatstream/mhn)
+
+- Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
+
 ---
 
 ## Miscellaneous
+
+[Account Analysis](https://accountanalysis.lucahammer.com/)
+
+- A solid twitter account analysis webapp.
 
 [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 
@@ -109,6 +117,10 @@ Yeah yeah, this should probably be in a better section or something.
 [Metagoofil](https://github.com/laramies/metagoofil)
 
 - A tool for extracting metadata of public documents (pdf,doc,xls,ppt,etc) availables in the target websites.
+
+[Reconnoitre](https://github.com/codingo/Reconnoitre)
+
+- A reconnaissance tool made for the OSCP labs to automate information gathering and service enumeration whilst creating a directory structure to store results, findings and exploits used for each host, recommended commands to execute and directory structures for storing loot and flags.
 
 [Snoopy-ng](https://github.com/sensepost/snoopy-ng)
 
@@ -156,7 +168,15 @@ Yeah yeah, this should probably be in a better section or something.
 
 [Insecam](http://insecam.org/)
 
+[InSpy](https://github.com/gojhonny/InSpy)
+
+- A python based LinkedIn enumeration tool.
+
 [IOT Scanner](http://iotscanner.bullguard.com/)
+
+[LinkedInt](https://github.com/mdsecactivebreach/LinkedInt)
+
+- A LinkedIn scraper for reconnaissance based off of deprecated linkedin-gatherer.
 
 [Machinae](https://github.com/HurricaneLabs/machinae)
 
@@ -165,6 +185,10 @@ Yeah yeah, this should probably be in a better section or something.
 [O.D.I.N.](https://github.com/chrismaddalena/viper)
 
 - A Python tool for automating penetration testing work, like intelligence gathering, testing, and reporting.
+
+[OSRFramework](https://github.com/i3visio/osrframework)
+
+- The Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.
 
 [Paterva - Maltego](https://www.paterva.com/web7/index.php)
 
@@ -196,9 +220,15 @@ Yeah yeah, this should probably be in a better section or something.
 
 [Automatically Discover Website Connections Through Tracking Codes](http://www.automatingosint.com/blog/2017/07/osint-website-connections-tracking-codes/)
 
+[Email Reconnaissance: Phishing Template Generation Made Simple](https://cybersyndicates.com/2016/05/email-reconnaissance-phishing-template-generation-made-simple/)
+
 [Galvanize Capstone Series: Geolocation of Twitter Users](https://www.continuum.io/blog/developer-blog/galvanize-capstone-series-geolocation-twitter-users)
 
+[Ichidan Is A Shodan-Like Search Engine For the Dark Web]https://www.bleepingcomputer.com/news/security/ichidan-is-a-shodan-like-search-engine-for-the-dark-web/
+
 [Metadata: a hacker's best friend](https://blog.sweepatic.com/metadata-hackers-best-friend/)
+
+[Working Around Twitter API Restrictions To Identify Bots](https://labsblog.f-secure.com/2017/08/31/working-around-twitter-api-restrictions-to-identify-bots/)
 
 ---
 

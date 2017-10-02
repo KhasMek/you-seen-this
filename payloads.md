@@ -104,6 +104,8 @@
 
 [Attacking Microsoft Office & OpenOffice with Metasploit Macro Exploits](https://community.rapid7.com/community/metasploit/blog/2017/02/22/attacking-microsoft-office-openoffice-with-metasploit-macro-exploits)
 
+[Msfvenom Cheat Sheet](http://security-geek.in/2016/09/07/msfvenom-cheat-sheet/)
+
 [Payload All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ---
