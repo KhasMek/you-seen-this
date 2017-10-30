@@ -32,6 +32,10 @@
 
 - GSM sniffing on a budget.
 
+[P4wnP1](https://github.com/mame82/P4wnP1)
+
+- A highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
+
 [Wi-Fi Ducky](https://github.com/spacehuhn/wifi_ducky/blob/master/README.md)
 
 - DIY BTLE controlled Rubber Ducky.

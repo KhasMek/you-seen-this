@@ -96,6 +96,14 @@ Zines and other online things.
 
 - Create On Demand OpenVPN Endpoints on AWS.
 
+[Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
+
+- Awesome list for exploit dev.
+
+[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+
+- Awesome list for remote jobs.
+
 [binctr](https://github.com/jessfraz/binctr)
 
 - Fully static, unprivileged, self-contained, containers as executable binaries.
@@ -160,13 +168,7 @@ Zines and other online things.
 
 - Universal Serial aBUSe is a project to demonstrate the risks of hardware bypasses of software security by Rogan Dawes at SensePost.
 
-[Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
-
-- Awesome list for exploit dev.
-
-[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-
-- Awesome list for remote jobs.
+[Using Nmap and Socat to Get Around Public Internet Port Restrictions]http://mikeferrier.com/2013/07/13/using-nmap-and-socat-to-get-around-public-internet-port-restrictions/
 
 [WhoDat](https://github.com/MITRECND/WhoDat)
 

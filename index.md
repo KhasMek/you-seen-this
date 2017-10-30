@@ -17,8 +17,9 @@ Note: Half the time the included descriptions are straight copy/pastes or slight
 [Analysis](analysis.md)
 
 - [CLI](analysis.md#CLI)
-    + [Resources](analysis.md#Resources)
-    + [Theory, Articles & Blogs](analysis.md#Theory,_Articles_&_Blogs)
+- [Resources](analysis.md#Resources)
+- [Theory, Articles & Blogs](analysis.md#Theory,_Articles_&_Blogs)
+- [Web Apps](analysis.md#Web_Apps)
 
 ## Bug Hunting
 

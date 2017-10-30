@@ -27,3 +27,13 @@
 [Using the ELK Stack and Python in Penetration Testing Workflow](https://qbox.io/blog/elk-penetration-testing-workflow-elasticsearch-python)
 
 ---
+
+---
+
+## Web Apps
+
+[Account Analysis](https://accountanalysis.lucahammer.com/)
+
+- Another Twitter account analyzer, but with a nice Web interface.
+
+[Reddit User Analyzer](https://atomiks.github.io/reddit-user-analyser)

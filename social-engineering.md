@@ -64,6 +64,10 @@
 
 ## Theory, Articles & Blogs
 
+[Bypassing Office365 Filters for Phishing]https://twitter.com/byt3bl33d3r/status/895333432401608704
+
+- A twitter thread, and solid resource.
+
 [Practical waterholing through DNS typosquatting](https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e)
 
 - Another look into using typo's and punycode to misdirect.

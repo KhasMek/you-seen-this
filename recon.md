@@ -58,6 +58,10 @@
 
 [hashes.org](https://hashes.org/public.php)
 
+[pwdology](https://github.com/tch1001/pwdlogy)
+
+- generate custom password lists based off of OSINT on a target.
+
 [Steamer](https://github.com/zxsecurity/steamer)
 
 - Import, manage, search public dumps
